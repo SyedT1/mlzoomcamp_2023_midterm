@@ -1,1 +1,4 @@
 # ML Zoomcamp Mid Term Project - Cyberbullying Detection in text
+
+## Project Description
+The objective of this project is to develop a machine learning model for the detection of cyberbullying in tweets. The data used for training and evaluation of the model is sourced from [**this**](https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification/data) Kaggle dataset. Cyberbullying has become a pressing issue, especially with the proliferation of social media platforms and the unique challenges brought about by the COVID-19 pandemic. This project seeks to address this problem by creating models that can automatically identify and flag potentially harmful tweets. In doing so, it aims to dissect the patterns of online hatred and provide valuable insights into combating this form of abuse.
